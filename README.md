@@ -15,13 +15,13 @@ This keeps context through `/clear`, across machines, and between different agen
 ## Install
 
 ```bash
-npx skills add <your-github-user>/claude-state-skills
+npx skills add mbarnfield63/claude-state-skills
 ```
 
 or manually:
 
 ```bash
-git clone https://github.com/<your-github-user>/claude-state-skills
+git clone https://github.com/mbarnfield63/claude-state-skills
 cp -r claude-state-skills/skills/* ~/.claude/skills/
 ```
 
